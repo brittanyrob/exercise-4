@@ -25,7 +25,7 @@ html {
   text-decoration: none;
   border-radius: 100px;
   border: 2px solid #546E7A;
-  background-color: #263238;
+  background-color: $backgroundc;
   transition: all 500ms;
   &:active {
     background-color: darken(#263238, 5%);
